@@ -33,12 +33,13 @@ Model performance was quantitatively assessed using standard object detection me
 
 ## Results and Analysis
 Training Graph: 
-<img width="1434" height="704" alt="Training Graph" src="https://github.com/user-attachments/assets/83203a52-862c-4d9a-baa9-20e1f5ffe3b0" />
+<img width="700" height="650" alt="Training Graph" src="https://github.com/user-attachments/assets/83203a52-862c-4d9a-baa9-20e1f5ffe3b0" />
+<br />
 Confusion Matrix:
-<img width="704" height="681" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/e5442e98-f693-4bc0-97af-4ea303810493" />
+<img width="700" height="650" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/e5442e98-f693-4bc0-97af-4ea303810493" />
+<br />
 Result:
-<img width="685" height="685" alt="Result" src="https://github.com/user-attachments/assets/d4cba6fe-ea34-41be-ab54-d3cddda0ee25" />
-
+<img width="685" height="685" alt="Screenshot 2025-09-01 233443" src="https://github.com/user-attachments/assets/39ce0914-57f4-4318-9d03-8ce088d28656" />
 
 ## Features
 
