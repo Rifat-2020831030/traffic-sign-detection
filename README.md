@@ -32,13 +32,13 @@ Model performance was quantitatively assessed using standard object detection me
 * mAP@50-95: The average mAP over IoU thresholds from 0.50 to 0.95, providing a more stringent measure of localization accuracy.
 
 ## Results and Analysis
-Training Graph: 
+Training Graph: <br />
 <img width="700" height="650" alt="Training Graph" src="https://github.com/user-attachments/assets/83203a52-862c-4d9a-baa9-20e1f5ffe3b0" />
 <br />
-Confusion Matrix:
+Confusion Matrix: <br />
 <img width="700" height="650" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/e5442e98-f693-4bc0-97af-4ea303810493" />
 <br />
-Result:
+Result: <br />
 <img width="685" height="685" alt="Screenshot 2025-09-01 233443" src="https://github.com/user-attachments/assets/39ce0914-57f4-4318-9d03-8ce088d28656" />
 
 ## Features
